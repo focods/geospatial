@@ -3,7 +3,8 @@ Exploration of Geo-spatial concepts
 
 Operations on shapefiles using geopandas, plotting shapefiles with annotation and creation of a heatmap using Colorado Oil Well production data for the year 2017.
 
-##OilAndGasMap.ipynb
+## OilAndGasMap.ipynb
+
 Python notebook illustrating the use of geopandas and shapely libraries 
 to draw maps and explore geospatial concepts.  The notebook shows how to read a shapefile and plot it,
 plot arbitrary points on a map, create a map with layers and produce a heat map.  The notebook uses real data
