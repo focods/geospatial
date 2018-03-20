@@ -19,6 +19,9 @@ The shapefiles are from the US Census Bureau and
 [Colorado Information Marketplace](https://data.colorado.gov/Municipal/Municipal-Boundaries-in-Colorado/u943-ics6/data)
 Oil well production data is from the Colorado Oil and Gas Conservation Commission.
 
-## OilWellAge.ipnb (in progress)
+## OilWellAge.ipnb
 
-Exploration of the relationship between the age of an oil well and its output
+Exploration of the relationship between the age of an oil well and its output. I look at oil production,
+well completions, the number of wells reporting production over time.  Then I look at the age of the wells
+versus their average daily output. Last, I look at well productivity within producing formations to see if
+any formations are inherently more productive than any others.
